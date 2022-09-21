@@ -1,4 +1,4 @@
-# open-board
+# Note-board
 Attempted clone of OneNote.
 Features include :
 
